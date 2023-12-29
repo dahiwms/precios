@@ -1,0 +1,33 @@
+
+/* NORMALIZE CSS */
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+body {
+    background: linear-gradient(178.1deg, rgb(60, 55, 106) 8.5%, rgb(23, 20, 69) 82.4%);
+    font-family: system-ui, sans-serif;
+    height: 100vh;
+}
+
+/* <-- HEADER --> */
+.header {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.header p {
+    color: white;
+    font-size: 2em;
+    font-weight: bolder;
+}
+
+.header h1 {
+    color: white;
+}
+
+
